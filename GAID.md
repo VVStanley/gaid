@@ -9,7 +9,7 @@ Opentelemetry - это набор библиотек и инструментов
 ## Установка необходимых зависимостей
 **Пакеты Контура:**
 
-- `httptoolkitopentelemetry[opentelemetry]`
+- `kontur_http_toolkit[opentelemetry]`
 Для сбора данных с нашей библиотеки kontur_http_toolkit в нее интегрирована [opentelemetry-instrumentation](https://git.skbkontur.ru/py-libs/kontur_http_toolkit/-/tree/master/kontur/httptoolkitopentelemetry?ref_type=heads) В readme указанно как ее установить.
 
 - `kontur_opentelemetry`
